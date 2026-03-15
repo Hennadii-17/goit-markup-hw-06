@@ -501,7 +501,6 @@ body {
 
 .footer-left {
     max-width: 264px;
-    text-align: center;
 }
 
 .footer-social-title,
@@ -1198,8 +1197,6 @@ body {
     color: #434455;
 }
 
-.footer-left {
-    text-align: center;
-}
+
 
 
